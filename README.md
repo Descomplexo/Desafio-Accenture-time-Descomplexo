@@ -2,12 +2,8 @@
 <h3>Projeto desenvolvido para participação do Desafio Accenture- Hackaton na Campus Party 14 </h3>
 <p>O "Descomplexo" consiste em um "MVP" de uma plataforma dedicada ao desenvolvimento da cultura e educação empreendedora para os moradores de favela/comunicades do nordeste. Com trilhas e cursos gratuitos, de maneira simples leva  conteúdos baseados na realidade de seu público. Seu principal diferencial são os conteúdos para empreendedores analfabetos.</p>
 <br>
-<p><b>Status:</b> Em desenvolvimento</p>
+<p><b>Status:</b> MVP</p>
 <br>
-<br>
-<h2>Layout Web</h2>
-<br>
-<h2>Layout Mobile</h2>
 <br>
 <h2>Tecnologias Utilizadas</h2>
 <br>
